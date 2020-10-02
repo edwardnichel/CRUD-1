@@ -1,5 +1,7 @@
 <?php
 
+//comentario
+
 # Base de dados
 include 'db.php';
 
