@@ -1,0 +1,62 @@
+/* ESTILO.CSS */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: helvetica, arial;
+  font-size: 16px;
+  color: #a9a9a9;
+}
+
+header {
+  height: 90px;
+  background-color: #a004c7;
+}
+
+footer {
+  height: 50px;
+  background-color: #610378;
+  padding: 10px 0;
+  text-align: center;
+  font-size: 12px;
+  color: #f8dedb;
+}
+
+/* class */
+/* .container {
+  margin: 0 auto;
+  width: 960px;
+}  */
+
+.conteudo-tabela {
+  text-align: center;
+}
+
+/* id */
+#conteudo {
+  padding: 100px 0;
+}
+
+#menu {
+  float: right;
+  padding: 29px 0;
+}
+
+#menu a {
+  text-decoration: none;
+  font-size: 20px;
+  padding: 35px 40px;
+  color: #ffe4e1;
+  text-shadow: 1px 1px 1px #808080;
+}
+
+#menu a:hover {
+  background-color: #730e85;
+}
+
+#icons {
+  text-align: center;
+}
