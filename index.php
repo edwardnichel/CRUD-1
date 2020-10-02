@@ -1,6 +1,6 @@
 <?php
 
-//comentario
+/*comentario*/
 
 # Base de dados
 include 'db.php';
